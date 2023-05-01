@@ -1,0 +1,544 @@
+﻿Security Name,Market Value       ,     Ticker     ,    CUSIP    
+"Apple, Inc.","$24,164,927,786 ",AAPL,37833100
+Microsoft Corp.,"$20,382,625,347 ",MSFT,594918104
+"Amazon.com, Inc.","$9,168,344,744 ",AMZN,23135106
+NVIDIA Corp.,"$6,337,217,891 ",NVDA,67066G104
+"Tesla, Inc.","$6,052,910,398 ",TSLA,88160R101
+"Berkshire Hathaway, Inc. Class B","$6,027,752,089 ",BRK.B,84670702
+"Alphabet, Inc. Class A","$5,897,078,006 ",GOOGL,02079K305
+"Alphabet, Inc. Class C","$5,241,435,778 ",GOOG,02079K107
+Exxon Mobil Corp.,"$4,962,109,628 ",XOM,30231G102
+"UnitedHealth Group, Inc.","$4,874,984,409 ",UNH,91324P102
+JPMorgan Chase & Co.,"$4,609,481,177 ",JPM,46625H100
+Johnson & Johnson,"$4,392,651,068 ",JNJ,478160104
+"Meta Platforms, Inc. Class A","$4,312,480,403 ",META,30303M102
+"Visa, Inc. Class A","$3,942,192,903 ",V,92826C839
+Procter & Gamble Co.,"$3,573,529,966 ",PG,742718109
+"The Home Depot, Inc.","$3,327,966,114 ",HD,437076102
+"MasterCard, Inc. Class A","$3,306,309,910 ",MA,57636Q104
+Chevron Corp.,"$3,135,307,441 ",CVX,166764100
+"AbbVie, Inc.","$2,983,670,843 ",ABBV,00287Y109
+"Merck & Co., Inc.","$2,952,879,712 ",MRK,58933Y105
+Eli Lilly & Co.,"$2,690,682,387 ",LLY,532457108
+"Broadcom, Inc.","$2,638,602,434 ",AVGO,11135F101
+Bank of America Corp.,"$2,624,407,734 ",BAC,60505104
+"PepsiCo, Inc.","$2,620,860,899 ",PEP,713448108
+The Coca-Cola Co.,"$2,539,110,314 ",KO,191216100
+"Pfizer, Inc.","$2,496,527,245 ",PFE,717081103
+Costco Wholesale Corp.,"$2,349,276,221 ",COST,22160K105
+"Thermo Fisher Scientific, Inc.","$2,329,281,409 ",TMO,883556102
+"Walmart, Inc.","$2,199,120,069 ",WMT,931142103
+"Cisco Systems, Inc.","$2,179,477,263 ",CSCO,17275R102
+McDonald’s Corp.,"$2,118,996,728 ",MCD,580135101
+The Walt Disney Co.,"$1,990,743,503 ",DIS,254687106
+Wells Fargo & Co.,"$1,953,710,442 ",WFC,949746101
+Abbott Laboratories,"$1,944,279,233 ",ABT,2824100
+,,,
+,,,
+,,,
+,,,
+,,,
+"Salesforce.com, Inc.","$1,793,584,114 ",CRM,79466L302
+"Verizon Communications, Inc.","$1,786,840,925 ",VZ,92343V104
+Danaher Corp.,"$1,777,835,462 ",DHR,235851102
+Comcast Corp. Class A,"$1,757,846,539 ",CMCSA,20030N101
+"Texas Instruments, Inc.","$1,705,809,371 ",TXN,882508104
+"Philip Morris International, Inc.","$1,653,533,519 ",PM,718172109
+"Adobe, Inc.","$1,651,008,907 ",ADBE,00724F101
+"NIKE, Inc. Class B","$1,640,418,864 ",NKE,654106103
+Bristol-Myers Squibb Co.,"$1,607,330,093 ",BMY,110122108
+Raytheon Technologies Corp.,"$1,580,782,049 ",RTX,7.55E+105
+"Netflix, Inc.","$1,571,529,566 ",NFLX,64110L106
+"NextEra Energy, Inc.","$1,547,345,932 ",NEE,65339F101
+"Qualcomm, Inc.","$1,518,063,505 ",QCOM,747525103
+"AT&T, Inc.","$1,477,441,061 ",T,00206R102
+Oracle Corp.,"$1,472,464,421 ",ORCL,68389X105
+"United Parcel Service, Inc. Class B","$1,460,048,473 ",UPS,911312106
+ConocoPhillips Co.,"$1,411,773,919 ",COP,20825C104
+"Honeywell International, Inc.","$1,411,278,065 ",HON,438516106
+"Lowe’s Companies, Inc.","$1,400,019,703 ",LOW,548661107
+Union Pacific Corp.,"$1,397,023,878 ",UNP,907818108
+Morgan Stanley,"$1,394,596,384 ",MS,617446448
+"Advanced Micro Devices, Inc.","$1,388,944,405 ",AMD,7903107
+"Caterpillar, Inc.","$1,366,636,104 ",CAT,149123101
+"Amgen, Inc.","$1,355,069,919 ",AMGN,31162100
+"Goldman Sachs Group, Inc.","$1,305,432,405 ",GS,38141G104
+Charles Schwab Corp.,"$1,302,924,164 ",SCHW,808513105
+Starbucks Corp.,"$1,284,692,393 ",SBUX,855244109
+IBM Corp.,"$1,281,561,346 ",IBM,459200101
+Deere & Co.,"$1,262,303,970 ",DE,244199105
+"Intuit, Inc.","$1,258,192,715 ",INTU,461202103
+"Prologis (REIT), Inc.","$1,248,718,288 ",PLD,74340W103
+"S&P Global, Inc.","$1,245,561,518 ",SPGI,78409V104
+The Boeing Co.,"$1,237,816,906 ",BA,97023105
+"Elevance Health, Inc.","$1,229,674,025 ",ELV,36752103
+Lockheed Martin Corp.,"$1,212,669,066 ",LMT,539830109
+Medtronic PLC,"$1,206,471,845 ",MDT,
+CVS Health Corp.,"$1,203,346,834 ",CVS,126650100
+American Express Co.,"$1,140,203,099 ",AXP,25816109
+,,,
+,,,
+,,,
+"BlackRock, Inc. Class A","$1,135,168,557 ",BLK,09247X101
+Intel Corp.,"$1,127,894,902 ",INTC,458140100
+"Gilead Sciences, Inc.","$1,107,265,193 ",GILD,375558103
+"Applied Materials, Inc.","$1,095,432,370 ",AMAT,38222105
+"Citigroup, Inc.","$1,076,293,775 ",C,172967424
+"Booking Holdings, Inc.","$1,073,272,948 ",BKNG,09857L108
+"Analog Devices, Inc.","$1,034,496,329 ",ADI,32654105
+General Electric Co.,"$1,014,693,229 ",GE,369604301
+American Tower Corp.,"$1,010,689,176 ",AMT,03027X100
+"Automatic Data Processing, Inc.","$999,648,156 ",ADP,53015103
+Cigna Group,"$979,026,020 ",CI,125523100
+"Mondelez International, Inc.","$975,788,597 ",MDLZ,609207105
+"TJX Companies, Inc.","$974,973,226 ",TJX,872540109
+Stryker Corp.,"$970,610,531 ",SYK,863667101
+,,,
+"ServiceNow, Inc.","$957,013,238 ",NOW,81762P102
+"T-Mobile U.S., Inc.","$930,820,185 ",TMUS,872590104
+Progressive Corp.,"$920,517,761 ",PGR,743315103
+"PayPal Holdings, Inc.","$919,825,053 ",PYPL,70450Y103
+"Altria Group, Inc.","$912,200,831 ",MO,02209S103
+"Regeneron Pharmaceuticals, Inc.","$892,668,444 ",REGN,75886F107
+"Intuitive Surgical, Inc.","$888,657,548 ",ISRG,46120E602
+"Marsh & McLennan Companies, Inc.","$881,642,411 ",MMC,571748102
+"Zoetis, Inc. Class A","$853,259,947 ",ZTS,98978V103
+Target Corp.,"$850,193,710 ",TGT,8.76E+110
+Schlumberger Ltd.,"$827,144,501 ",SLB,806857108
+"Vertex Pharmaceuticals, Inc.","$816,873,157 ",VRTX,92532F100
+"Fiserv, Inc.","$801,202,603 ",FISV,337738108
+Duke Energy Corp.,"$795,729,629 ",DUK,26441C204
+,,,
+,,,
+Southern Co.,"$752,598,335 ",SO,842587107
+Northrop Grumman Corp.,"$736,093,776 ",NOC,666807102
+Boston Scientific Corp.,"$733,587,722 ",BSX,101137107
+"Becton, Dickinson & Co.","$733,312,835 ",BDX,75887109
+"CME Group, Inc.","$730,968,272 ",CME,12572Q105
+"EOG Resources, Inc.","$727,768,104 ",EOG,26875P101
+Lam Research Corp.,"$726,615,569 ",LRCX,512807108
+"Illinois Tool Works, Inc.","$714,510,659 ",ITW,452308109
+,,,
+,,,
+,,,
+U.S. Bancorp,"$707,476,064 ",USB,902973304
+CSX Corp.,"$702,726,782 ",CSX,126408103
+"PNC Financial Services Group, Inc.","$698,228,593 ",PNC,693475105
+"Equinix, Inc.","$698,217,566 ",EQIX,29444U700
+"Air Products & Chemicals, Inc.","$695,355,794 ",APD,9158106
+Aon PLC,"$689,475,334 ",AON,
+"Micron Technology, Inc.","$689,107,606 ",MU,595112103
+"Humana, Inc.","$687,018,457 ",HUM,444859102
+Truist Financial Corp.,"$682,875,825 ",TFC,89832Q109
+Colgate-Palmolive Co.,"$671,140,737 ",CL,194162103
+3M Co.,"$652,847,944 ",MMM,88579Y101
+"Freeport-McMoRan, Inc.","$641,962,167 ",FCX,35671D857
+Marathon Petroleum Corp.,"$635,022,563 ",MPC,56585A102
+"Intercontinental Exchange, Inc.","$623,337,586 ",ICE,45866F104
+Crown Castle International Corp.,"$620,711,175 ",CCI,22822V101
+"Estee Lauder Companies, Inc. Class A","$616,207,339 ",EL,518439104
+"Waste Management, Inc.","$613,250,577 ",WM,94106L109
+"Synopsys, Inc.","$609,769,433 ",SNPS,871607107
+General Motors Co.,"$603,355,084 ",GM,37045V100
+"Activision Blizzard, Inc.","$595,315,089 ",ATVI,00507V109
+KLA Corp.,"$589,401,733 ",KLAC,482480100
+"Cadence Design Systems, Inc.","$580,210,133 ",CDNS,127387108
+Sherwin-Williams Co.,"$572,232,249 ",SHW,824348106
+Norfolk Southern Corp.,"$570,589,788 ",NSC,655844108
+"O’Reilly Automotive, Inc.","$569,442,789 ",ORLY,67103H107
+"HCA Holdings, Inc.","$565,893,682 ",HCA,40412C101
+General Dynamics Corp.,"$562,482,564 ",GD,369550108
+Valero Energy Corp.,"$556,732,870 ",VLO,91913Y100
+Edwards Lifesciences Corp.,"$545,199,073 ",EW,2.82E+112
+McKesson Corp.,"$543,749,561 ",MCK,58155Q103
+Emerson Electric Co.,"$536,139,454 ",EMR,291011104
+Dollar General Corp.,"$534,876,590 ",DG,256677105
+FedEx Corp.,"$533,343,168 ",FDX,31428X106
+Phillips 66 Co.,"$531,389,513 ",PSX,718546104
+Ford Motor Co.,"$522,609,008 ",F,345370860
+Pioneer Natural Resources Co.,"$522,006,524 ",PXD,723787107
+"MetLife, Inc.","$518,255,132 ",MET,59156R108
+Public Storage,"$518,049,558 ",PSA,74460D109
+"AutoZone, Inc.","$517,399,243 ",AZO,53332102
+,,,
+,,,
+,,,
+"General Mills, Inc.","$517,345,491 ",GIS,370334104
+Sempra Energy,"$516,746,114 ",SRE,816851109
+"Dominion Energy, Inc.","$508,078,911 ",D,25746U109
+,,,
+Amphenol Corp. Class A,"$505,722,030 ",APH,32095101
+"Moderna, Inc.","$502,765,933 ",MRNA,60770K107
+Moody’s Corp.,"$501,139,246 ",MCO,615369105
+"Roper Technologies, Inc.","$500,150,950 ",ROP,776696106
+"Marriott International, Inc. Class A","$499,186,073 ",MAR,571903202
+"American International Group, Inc.","$497,738,567 ",AIG,26874784
+"American Electric Power Co., Inc.","$495,557,970 ",AEP,25537101
+Parker Hannifin Corp.,"$495,284,467 ",PH,701094104
+"Microchip Technology, Inc.","$488,570,790 ",MCHP,595017104
+"Corteva, Inc.","$487,896,391 ",CTVA,22052L104
+"Motorola Solutions, Inc.","$481,723,371 ",MSI,620076307
+Archer Daniels Midland Co.,"$479,359,558 ",ADM,39483102
+"The Travelers Companies, Inc.","$475,583,091 ",TRV,8.94E+113
+,,,
+Nucor Corp.,"$470,904,572 ",NUE,670346105
+"Autodesk, Inc.","$470,173,459 ",ADSK,52769106
+"DexCom, Inc.","$470,058,080 ",DXCM,252131107
+,,,
+Occidental Petroleum Corp.,"$466,794,526 ",OXY,674599105
+Kimberly-Clark Corp.,"$462,656,864 ",KMB,494368103
+"Agilent Technologies, Inc.","$460,744,611 ",A,00846U101
+"MSCI, Inc.","$457,687,450 ",MSCI,55354G100
+Capital One Financial Corp.,"$456,434,025 ",COF,14040H105
+"Chipotle Mexican Grill, Inc.","$453,128,774 ",CMG,169656105
+TE Connectivity Ltd.,"$443,962,294 ",TEL,
+"Dow, Inc.","$441,297,886 ",DOW,260557103
+"L3Harris Technologies, Inc.","$440,817,732 ",LHX,502431109
+Exelon Corp.,"$440,006,721 ",EXC,30161N101
+Realty Income Corp.,"$439,669,743 ",O,756109104
+"Simon Property Group, Inc.","$437,590,583 ",SPG,828806109
+Arthur J. Gallagher & Co.,"$433,030,486 ",AJG,363576109
+"Ecolab, Inc.","$432,932,749 ",ECL,278865100
+"Charter Communications, Inc. Class A","$432,871,436 ",CHTR,16119P108
+"IDEXX Laboratories, Inc.","$429,647,971 ",IDXX,45168D104
+"Hilton Worldwide Holdings, Inc.","$428,456,109 ",HLT,43300A203
+,,,
+,,,
+,,,
+"Biogen, Inc.","$426,006,123 ",BIIB,09062X103
+Monster Beverage Corp.,"$424,882,904 ",MNST,61174X109
+Centene Corp.,"$424,603,807 ",CNC,15135B101
+"IQVIA Holdings, Inc.","$424,483,487 ",IQV,46266C105
+"AFLAC, Inc.","$422,729,134 ",AFL,1055102
+"Fortinet, Inc.","$422,523,653 ",FTNT,3.50E+113
+"TransDigm Group, Inc.","$421,242,423 ",TDG,893641100
+"Ross Stores, Inc.","$420,571,317 ",ROST,778296103
+Cintas Corp.,"$414,886,453 ",CTAS,172908105
+Sysco Corp.,"$414,271,622 ",SYY,871829107
+"PACCAR, Inc.","$412,885,736 ",PCAR,693718108
+Carrier Global Corp.,"$412,815,632 ",CARR,14448C104
+"Fidelity National Information Services, Inc.","$412,218,745 ",FIS,31620M106
+Bank of New York Mellon Corp.,"$410,262,892 ",BK,64058100
+Hess Corp.,"$409,738,542 ",HES,42809H107
+"Prudential Financial, Inc.","$403,422,000 ",PRU,744320102
+"The Williams Companies, Inc.","$401,907,090 ",WMB,969457100
+"Ameriprise Financial, Inc.","$399,993,171 ",AMP,03076C106
+"Constellation Brands, Inc. Class A (sub. vtg.)","$398,086,006 ",STZ,21036P108
+"DuPont de Nemours, Inc.","$397,727,076 ",DD,26614N102
+"Yum! Brands, Inc.","$392,672,750 ",YUM,988498101
+"Paychex, Inc.","$388,200,182 ",PAYX,704326107
+"Xcel Energy, Inc.","$387,370,669 ",XEL,98389B100
+Otis Worldwide Corp.,"$386,446,593 ",OTIS,68902V107
+Devon Energy Corp.,"$386,402,798 ",DVN,25179M103
+The Hershey Co.,"$383,970,698 ",HSY,427866108
+"Welltower, Inc.","$383,944,417 ",WELL,95040Q104
+Newmont Corp.,"$379,468,490 ",NEM,651639106
+"Warner Bros Discovery, Inc.","$378,402,326 ",WBD,934423104
+"Arista Networks, Inc.","$376,346,916 ",ANET,40413106
+"Cummins, Inc.","$375,792,443 ",CMI,231021106
+Allstate Corp.,"$374,412,396 ",ALL,20002101
+"Rockwell Automation, Inc.","$371,312,151 ",ROK,773903109
+"Kinder Morgan, Inc.","$369,930,422 ",KMI,49456B101
+onsemi,"$366,960,015 ",ON,682189105
+Halliburton Co.,"$360,652,151 ",HAL,406216101
+State Street Corp.,"$356,724,257 ",STT,857477103
+"AMETEK, Inc.","$356,390,748 ",AME,31100100
+"United Rentals, Inc.","$355,985,814 ",URI,911363109
+,,,
+,,,
+,,,
+"VICI Properties, Inc.","$354,010,310 ",VICI,925652109
+Cognizant Technology Solutions Corp. Class A,"$352,850,405 ",CTSH,192446102
+"Mettler-Toledo International, Inc.","$350,397,290 ",MTD,592688105
+"Consolidated Edison, Inc.","$347,589,906 ",ED,209115104
+Aptiv PLC,"$345,386,949 ",APTV,
+"Illumina, Inc.","$343,502,472 ",ILMN,452327109
+"ResMed, Inc.","$342,043,707 ",RMD,761152107
+"PPG Industries, Inc.","$340,252,194 ",PPG,693506107
+The Kraft Heinz Co.,"$339,885,337 ",KHC,500754106
+"Old Dominion Freight Lines, Inc.","$336,937,765 ",ODFL,679580100
+Baker Hughes Co. Class A,"$335,946,690 ",BKR,05722G100
+Discover Financial Services,"$335,468,672 ",DFS,254709108
+"Dollar Tree, Inc.","$335,252,051 ",DLTR,256746108
+"Global Payments, Inc.","$332,592,889 ",GPN,37940X102
+"Copart, Inc.","$331,001,422 ",CPRT,217204106
+"Public Service Enterprise Group, Inc.","$330,537,959 ",PEG,744573106
+"W.W. Grainger, Inc.","$329,532,648 ",GWW,384802104
+"Digital Realty Trust, Inc.","$328,530,458 ",DLR,253868103
+Albemarle Corp.,"$326,609,570 ",ALB,12653101
+Fastenal Co.,"$323,740,754 ",FAST,311900104
+"Keurig Dr. Pepper, Inc.","$321,848,487 ",KDP,49271V100
+"ONEOK, Inc.","$320,689,161 ",OKE,682680103
+"Electronic Arts, Inc.","$318,976,463 ",EA,285512109
+"D.R. Horton, Inc.","$317,321,908 ",DHI,23331A109
+"CoStar Group, Inc.","$315,027,930 ",CSGP,22160N109
+"Enphase Energy, Inc.","$313,705,490 ",ENPH,29355A107
+"Keysight Technologies, Inc.","$313,531,358 ",KEYS,49338L103
+Kroger Co.,"$308,055,320 ",KR,501044101
+SBA Communications Corp. Class A,"$306,962,251 ",SBAC,78410G104
+"WEC Energy Group, Inc.","$306,583,975 ",WEC,92939U106
+"GE HealthCare Technologies, Inc.","$303,453,712 ",GEHC,36266G107
+CDW Corp.,"$300,438,241 ",CDW,12514G108
+"CBRE Group, Inc.","$294,891,670 ",CBRE,12504L109
+M&T Bank Corp.,"$293,852,161 ",MTB,55261F104
+"Verisk Analytics, Inc.","$293,353,037 ",VRSK,92345Y106
+"Ulta Beauty, Inc.","$291,312,944 ",ULTA,90384S303
+"Republic Services, Inc.","$290,313,873 ",RSG,760759100
+"ANSYS, Inc.","$289,938,442 ",ANSS,03662Q105
+Eversource Energy,"$287,749,801 ",ES,30040W108
+,,,
+,,,
+,,,
+"HP, Inc.","$286,472,235 ",HPQ,40434L105
+"Zimmer Biomet Holdings, Inc.","$284,964,793 ",ZBH,98956P102
+"Gartner, Inc.","$283,983,442 ",IT,366651107
+Arch Capital Group Ltd.,"$283,832,780 ",ACGL,
+"Corning, Inc.","$283,313,633 ",GLW,219350105
+Tractor Supply Co.,"$282,467,830 ",TSCO,892356106
+"American Water Works Co., Inc.","$279,819,594 ",AWK,30420103
+"Walgreens Boots Alliance, Inc.","$279,580,809 ",WBA,931427108
+Willis Towers Watson PLC,"$278,083,608 ",WTW,
+Edison International,"$277,176,644 ",EIX,281020107
+AmerisourceBergen Corp.,"$276,183,869 ",ABC,3.07E+108
+PG&E Corp.,"$275,694,953 ",PCG,69331C108
+"T. Rowe Price Group, Inc.","$275,057,705 ",TROW,74144T108
+Genuine Parts Co.,"$273,302,642 ",GPC,372460105
+Fifth Third Bancorp,"$273,144,904 ",FITB,316773100
+"eBay, Inc.","$273,055,933 ",EBAY,278642103
+"Hartford Financial Services Group, Inc.","$272,976,450 ",HIG,416515104
+"Equifax, Inc.","$271,853,589 ",EFX,294429105
+"Diamondback Energy, Inc.","$271,234,911 ",FANG,25278X109
+Lennar Corp. Class A,"$270,184,856 ",LEN,526057104
+"Delta Air Lines, Inc.","$269,494,084 ",DAL,247361702
+Constellation Energy Corp.,"$268,477,205 ",CEG,21037T109
+LyondellBasell Industries NV Class A,"$267,269,181 ",LYB,
+"AvalonBay Communities, Inc.","$264,581,675 ",AVB,53484101
+Vulcan Materials Co.,"$263,586,051 ",VMC,929160109
+"International Flavors & Fragrances, Inc.","$260,497,355 ",IFF,459506101
+Fortive Corp.,"$258,550,209 ",FTV,34959J108
+"Ingersoll Rand, Inc.","$257,774,124 ",IR,45687V106
+"West Pharmaceutical Services, Inc.","$257,298,695 ",WST,955306105
+"Quanta Services, Inc.","$252,842,784 ",PWR,7.48E+106
+Weyerhaeuser Co.,"$252,110,344 ",WY,962166104
+First Republic Bank,"$246,675,151 ",FRC,33616C100
+"Align Technology, Inc.","$246,475,277 ",ALGN,16255101
+"Alexandria Real Estate Equities, Inc.","$245,177,878 ",ARE,15271109
+"Martin Marietta Materials, Inc.","$244,954,872 ",MLM,573284106
+"Huntington Bancshares, Inc.","$242,301,963 ",HBAN,446150104
+"Extra Space Storage, Inc.","$241,727,275 ",EXR,30225T102
+Regions Financial Corp.,"$238,888,168 ",RF,7591EP100
+"Monolithic Power Systems, Inc.","$236,756,789 ",MPWR,609839105
+,,,
+,,,
+,,,
+FirstEnergy Corp.,"$235,440,297 ",FE,337932107
+Ameren Corp.,"$234,405,351 ",AEE,23608102
+Equity Residential (SBI),"$233,116,011 ",EQR,29476L107
+DTE Energy Co.,"$233,014,056 ",DTE,233331107
+Laboratory Corp. of America Holdings,"$232,486,299 ",LH,50540R409
+Dover Corp.,"$230,641,986 ",DOV,260003108
+"Steel Dynamics, Inc.","$230,588,604 ",STLD,858119100
+"Raymond James Financial, Inc.","$230,178,367 ",RJF,754730109
+Entergy Corp.,"$229,472,726 ",ETR,29364G103
+"Citizens Financial Group, Inc.","$225,460,611 ",CFG,174610105
+"Church & Dwight Co., Inc.","$223,978,876 ",CHD,171340102
+"Principal Financial Group, Inc.","$223,415,301 ",PFG,74251V102
+"Teledyne Technologies, Inc.","$220,981,148 ",TDY,879360105
+"Baxter International, Inc.","$220,781,877 ",BAX,71813109
+Hewlett Packard Enterprise Co.,"$220,187,433 ",HPE,42824C109
+Southwest Airlines Co.,"$218,573,563 ",LUV,844741108
+PPL Corp.,"$218,507,226 ",PPL,69351T106
+"Hologic, Inc.","$217,961,619 ",HOLX,436440101
+Northern Trust Corp.,"$217,670,324 ",NTRS,665859104
+"Cardinal Health, Inc.","$217,564,723 ",CAH,14149Y108
+"Coterra Energy, Inc.","$215,831,067 ",CTRA,127097103
+"Ventas, Inc.","$213,180,943 ",VTR,92276F100
+The Clorox Co.,"$210,250,476 ",CLX,189054109
+"NASDAQ, Inc.","$208,325,968 ",NDAQ,631103108
+Westinghouse Air Brake Tech Co.,"$208,006,790 ",WAB,929740108
+Cincinnati Financial Corp.,"$207,982,877 ",CINF,172062101
+Las Vegas Sands Corp.,"$207,018,549 ",LVS,517834107
+STERIS PLC,"$205,764,049 ",STE,
+"McCormick & Co., Inc. (non-vtg.)","$204,173,985 ",MKC,579780206
+"Xylem, Inc.","$202,804,989 ",XYL,98419M100
+"Mid-America Apartment Communities, Inc.","$202,674,432 ",MAA,59522J103
+Waters Corp.,"$202,471,465 ",WAT,941848103
+"Omnicom Group, Inc.","$202,463,891 ",OMC,681919106
+"Invitation Homes, Inc.","$199,047,644 ",INVH,46187W107
+"VeriSign, Inc.","$199,018,750 ",VRSN,9.23E+106
+The Mosaic Co.,"$198,533,909 ",MOS,61945C103
+"Skyworks Solutions, Inc.","$196,240,361 ",SWKS,83088M102
+"SolarEdge Technologies, Inc.","$194,806,116 ",SEDG,83417M104
+"EPAM Systems, Inc.","$193,970,249 ",EPAM,29414B104
+,,,
+,,,
+,,,
+Ball Corp.,"$193,439,183 ",BALL,58498106
+"CenterPoint Energy, Inc.","$191,994,973 ",CNP,15189T107
+"Darden Restaurants, Inc.","$191,846,108 ",DRI,237194105
+"Conagra Brands, Inc.","$191,293,115 ",CAG,205887102
+"Take-Two Interactive Software, Inc.","$189,449,416 ",TTWO,874054109
+"Tyson Foods, Inc. Class A","$188,083,623 ",TSN,902494103
+CMS Energy Corp.,"$187,637,056 ",CMS,125896100
+KeyCorp,"$187,065,346 ",KEY,493267108
+SVB Financial Group,"$186,675,400 ",SIVB,78486Q101
+"United Airlines Holdings, Inc.","$186,222,873 ",UAL,910047109
+IDEX Corp.,"$186,015,039 ",IEX,45167R104
+Kellogg Co.,"$185,026,717 ",K,487836108
+"CF Industries Holdings, Inc.","$184,726,457 ",CF,125269100
+Targa Resources Corp.,"$183,890,191 ",TRGP,87612G101
+"First Solar, Inc.","$183,832,684 ",FSLR,336433107
+"Best Buy Co., Inc.","$182,553,608 ",BBY,86516101
+"Expeditors International of Washington, Inc.","$182,408,893 ",EXPD,302130109
+Amcor PLC,"$181,843,489 ",AMCR,
+"Broadridge Financial Solutions, Inc.","$181,578,044 ",BR,11133T103
+The AES Corp.,"$180,717,918 ",AES,00130H105
+"Expedia, Inc.","$179,865,773 ",EXPE,30212P303
+FMC Corp.,"$178,344,527 ",FMC,302491303
+"The Cooper Companies, Inc.","$176,877,037 ",COO,216648402
+Synchrony Financial,"$176,374,618 ",SYF,87165B103
+"Molina Healthcare, Inc.","$176,269,845 ",MOH,60855R100
+Marathon Oil Corp.,"$175,093,571 ",MRO,565849106
+"FleetCor Technologies, Inc.","$173,660,078 ",FLT,339041105
+"FactSet Research Systems, Inc.","$173,137,637 ",FDS,303075105
+Atmos Energy Corp.,"$173,002,596 ",ATO,49560105
+The J.M. Smucker Co.,"$172,755,929 ",SJM,832696405
+"Quest Diagnostics, Inc.","$172,741,491 ",DGX,74834L100
+"Teradyne, Inc.","$172,695,033 ",TER,880770102
+"PerkinElmer, Inc.","$172,372,243 ",PKI,714046109
+"NVR, Inc.","$170,388,001 ",NVR,62944T105
+"Howmet Aerospace, Inc.","$170,257,714 ",HWM,443201108
+Royal Caribbean Cruises Ltd.,"$169,945,995 ",RCL,
+Zebra Technologies Corp. Class A,"$169,940,599 ",ZBRA,989207105
+"Iron Mountain, Inc.","$168,112,615 ",IRM,46284V101
+"Etsy, Inc.","$167,286,225 ",ETSY,29786A106
+,,,
+,,,
+,,,
+"Jacobs Solutions, Inc.","$167,167,116 ",J,46982L108
+"Textron, Inc.","$165,996,872 ",TXT,883203101
+Garmin Ltd.,"$164,947,011 ",GRMN,
+Everest Re Group Ltd.,"$164,857,136 ",RE,
+"J.B. Hunt Transport Services, Inc.","$164,161,840 ",JBHT,445658107
+"Essex Property Trust, Inc.","$161,892,952 ",ESS,297178105
+Avery Dennison Corp.,"$161,716,763 ",AVY,53611109
+LKQ Corp.,"$159,408,107 ",LKQ,501889208
+"Lamb Weston Holdings, Inc.","$158,684,724 ",LW,513272104
+Incyte Corp.,"$155,829,382 ",INCY,45337C102
+"Paycom Software, Inc.","$154,029,090 ",PAYC,70432V102
+"NetApp, Inc.","$153,815,420 ",NTAP,64110D104
+Pool Corp.,"$152,771,409 ",POOL,73278L105
+"Viatris, Inc.","$151,553,059 ",VTRS,92556V106
+"Interpublic Group of Companies, Inc.","$151,372,963 ",IPG,460690100
+MGM Resorts International,"$150,284,166 ",MGM,552953101
+W.R. Berkley Corp.,"$148,327,157 ",WRB,84423102
+"Evergy, Inc.","$147,983,779 ",EVRG,30034W106
+"Cboe Global Markets, Inc.","$146,727,004 ",CBOE,12503M108
+"Tyler Technologies, Inc.","$146,644,521 ",TYL,902252105
+"Leidos Holdings, Inc.","$145,456,774 ",LDOS,525327102
+"PTC, Inc.","$145,251,830 ",PTC,69370C100
+"Snap-On, Inc.","$144,909,566 ",SNA,833034101
+"Brown & Brown, Inc.","$144,493,287 ",BRO,115236101
+"UDR, Inc.","$143,713,120 ",UDR,902653104
+International Paper Co.,"$141,886,575 ",IP,460146103
+"Healthpeak Properties, Inc.","$141,781,153 ",PEAK,42250P103
+Alliant Energy Corp.,"$141,087,093 ",LNT,18802108
+"MarketAxess Holdings, Inc.","$140,881,587 ",MKTX,57060D108
+Hormel Foods Corp.,"$140,839,797 ",HRL,440452100
+"Trimble, Inc.","$140,751,550 ",TRMB,896239100
+Kimco Realty Corp.,"$139,734,089 ",KIM,49446R109
+"Stanley Black & Decker, Inc.","$138,844,267 ",SWK,854502101
+Packaging Corp. of America,"$138,690,135 ",PKG,695156109
+"PulteGroup, Inc.","$136,537,833 ",PHM,745867101
+Seagate Technology Holdings PLC,"$135,888,212 ",STX,
+APA Corp.,"$135,273,956 ",APA,03743Q108
+"Catalent, Inc.","$134,588,850 ",CTLT,148806102
+Camden Property Trust (SBI),"$134,019,023 ",CPT,133131102
+,,,
+,,,
+,,,
+Western Digital Corp.,"$133,997,249 ",WDC,958102105
+EQT Corp.,"$133,508,456 ",EQT,26884L109
+Loews Corp.,"$131,974,621 ",L,540424108
+"Host Hotels & Resorts, Inc.","$131,687,405 ",HST,44107P104
+"Jack Henry & Associates, Inc.","$131,344,042 ",JKHY,426281101
+Brown-Forman Corp. Class B (non-vtg.),"$130,035,937 ",BF.B,115637209
+Masco Corp.,"$129,626,726 ",MAS,574599106
+Nordson Corp.,"$129,488,323 ",NDSN,655663102
+"BorgWarner, Inc.","$129,065,190 ",BWA,99724106
+"C.H. Robinson Worldwide, Inc.","$128,987,584 ",CHRW,12541W209
+Celanese Corp. Class A,"$127,104,130 ",CE,150870103
+"Match Group, Inc.","$126,824,229 ",MTCH,57667L107
+"Akamai Technologies, Inc.","$125,146,138 ",AKAM,00971T101
+Bio-Techne Corp.,"$124,998,404 ",TECH,09073M104
+"Gen Digital, Inc.","$123,988,216 ",GEN,668771108
+"Ceridian HCM Holding, Inc.","$122,799,096 ",CDAY,15677J108
+Wynn Resorts Ltd.,"$122,502,748 ",WYNN,983134107
+"Teleflex, Inc.","$122,500,248 ",TFX,879369106
+"Charles River Laboratories International, Inc.","$122,339,956 ",CRL,159864107
+"NiSource, Inc.","$122,125,821 ",NI,65473P105
+"Globe Life, Inc.","$120,678,269 ",GL,3.80E+106
+"CarMax, Inc.","$119,594,471 ",KMX,143130102
+"Caesars Entertainment, Inc.","$119,397,266 ",CZR,12769G100
+Paramount Global Class B,"$118,590,138 ",PARA,92556H206
+Carnival Corp.,"$116,589,567 ",CCL,143658300
+"Henry Schein, Inc.","$116,364,979 ",HSIC,806407102
+Fox Corp. Class A,"$116,115,989 ",FOXA,35137L105
+Campbell Soup Co.,"$115,633,179 ",CPB,134429109
+"Tapestry, Inc.","$114,933,884 ",TPR,876030107
+"Domino’s Pizza, Inc.","$114,094,697 ",DPZ,25754A201
+"American Airlines Group, Inc.","$113,850,836 ",AAL,02376R102
+"Live Nation Entertainment, Inc.","$112,838,105 ",LYV,538034109
+"Bio-Rad Laboratories, Inc. Class A","$112,790,309 ",BIO,90572207
+"Qorvo, Inc.","$112,137,621 ",QRVO,74736K101
+Eastman Chemical Co.,"$112,071,995 ",EMN,277432100
+Molson Coors Beverage Co. Class B,"$109,621,558 ",TAP,60871R209
+"Juniper Networks, Inc.","$109,514,224 ",JNPR,48203R104
+Allegion PLC,"$108,540,519 ",ALLE,
+Regency Centers Corp.,"$106,197,341 ",REG,758849103
+,,,
+,,,
+,,,
+"Boston Properties, Inc.","$102,396,183 ",BXP,101121101
+"Bath & Body Works, Inc.","$102,320,620 ",BBWI,70830104
+Pentair PLC,"$100,877,721 ",PNR,
+"Comerica, Inc.","$100,633,457 ",CMA,200340107
+"Robert Half International, Inc.","$95,891,605 ",RHI,770323103
+"Advance Auto Parts, Inc.","$95,535,598 ",AAP,00751Y106
+"Huntington Ingalls Industries, Inc.","$94,139,455 ",HII,446413106
+"Universal Health Services, Inc. Class B","$93,943,120 ",UHS,913903100
+"F5, Inc.","$93,826,193 ",FFIV,315616102
+"Franklin Resources, Inc.","$91,771,496 ",BEN,354613101
+Pinnacle West Capital Corp.,"$91,385,672 ",PNW,723484101
+A.O. Smith Corp.,"$91,279,582 ",AOS,831865209
+VF Corp.,"$89,866,469 ",VFC,918204108
+"Dentsply Sirona, Inc.","$89,692,425 ",XRAY,24906P109
+"Rollins, Inc.","$89,317,043 ",ROL,775711104
+Invesco Ltd.,"$88,048,804 ",IVZ,
+WestRock Co.,"$87,535,633 ",WRK,96145D105
+Federal Realty Investment Trust (SBI),"$85,555,660 ",FRT,313745101
+"Generac Holdings, Inc.","$83,352,225 ",GNRC,368736104
+Zions Bancorp NA,"$83,026,772 ",ZION,989701107
+"NRG Energy, Inc.","$82,814,424 ",NRG,629377508
+Whirlpool Corp.,"$82,404,278 ",WHR,963320106
+Signature Bank,"$79,366,207 ",SBNY,82669G104
+"Hasbro, Inc.","$78,292,377 ",HAS,418056107
+Sealed Air Corp.,"$77,102,714 ",SEE,81211K100
+"Assurant, Inc.","$73,779,575 ",AIZ,04621X108
+News Corp. Class A,"$71,813,190 ",NWSA,65249B109
+DXC Technology Co.,"$69,963,137 ",DXC,23355L106
+Norwegian Cruise Line Holdings Ltd.,"$68,462,190 ",NCLH,
+Organon & Co.,"$68,289,924 ",OGN,68622V106
+"Alaska Air Group, Inc.","$66,506,084 ",ALK,11659109
+"Newell Brands, Inc.","$60,611,645 ",NWL,651229106
+"Mohawk Industries, Inc.","$59,456,659 ",MHK,608190104
+Lincoln National Corp.,"$53,545,834 ",LNC,534187109
+Ralph Lauren Corp.,"$53,240,104 ",RL,751212101
+"DaVita HealthCare Partners, Inc.","$49,562,719 ",DVA,23918K108
+Fox Corp. Class B,"$49,265,003 ",FOX,35137L204
+"Lumen Technologies, Inc.","$35,476,776 ",LUMN,550241103
+DISH Network Corp. Class A,"$31,439,958 ",DISH,25470M109
+,,,
+,,,
+,,,
+News Corp. Class B,"$22,379,730 ",NWS,65249B208
